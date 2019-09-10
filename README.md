@@ -1,1 +1,1 @@
-# pooja_rao_data_x_s19
+These notebooks are homework assignments for the Data-X (IEOR 290: Data Science for Venture Applications) class at UC Berkeley
